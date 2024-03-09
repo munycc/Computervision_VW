@@ -1,2 +1,4 @@
 # Computervision_VW
-This code was design in two parts: One in Python and one in Vectorworks. The Python code allows to detect hand position / finger movement; as well as proximity with the screen. Once we open VW, there is a short script in Marionette that allows to translate this previous information into a point attractor, that can affect the design 
+This GitHub repository consists of two components: Python code and a Vectorworks (VW) script. The Python code detects hand positions, finger movements, and screen proximity. Upon opening Vectorworks, the included VW script, implemented with Marionette, processes the collected data to create a point attractor. This attractor facilitates dynamic design adjustments within the Vectorworks environment based on the captured input.
+
+
