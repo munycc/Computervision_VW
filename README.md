@@ -17,6 +17,7 @@ Before proceeding with the installation, ensure you have the following prerequis
 - Python installed on your system
 - Vectorworks installed on your system
 - OpenCV library installed for Python (required for recording positions)
+- Madiapipe library installed for Python (required for face / hand detection)
 
 No further installation is needed beyond these prerequisites.
 
