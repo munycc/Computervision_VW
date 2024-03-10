@@ -24,7 +24,6 @@ No further installation is needed beyond these prerequisites.
 
 ## Usage
 
-Certainly! Here are the simplified instructions:
 
 1. **Download the GitHub repository** and choose a folder: Hand+Face detection or Finger detection.
 
